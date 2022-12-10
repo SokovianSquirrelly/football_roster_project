@@ -1,0 +1,5 @@
+﻿  FootballRosterProject.cpp
+  Player.cpp
+C:\Users\squir\source\repos\FootballRosterProject\FootballRosterProject\Player.cpp(59,8): warning C4804: '<': unsafe use of type 'bool' in operation
+  Generating Code...
+  FootballRosterProject.vcxproj -> C:\Users\squir\source\repos\FootballRosterProject\x64\Debug\FootballRosterProject.exe
